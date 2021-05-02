@@ -1,4 +1,4 @@
-# Online-Retail
+# Retail Forecasting
 Time Series Analysis and forecast of a Retail Dataset using Tensorflow.
 
 ### Modules to be installed:
